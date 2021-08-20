@@ -1,2 +1,2 @@
 # assignment_04
-this includes the answer for map reduce of 19001517
+this includes the answer for function and data of 19001517
